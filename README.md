@@ -8,7 +8,7 @@ change 1 by developer 1
 
 change 2 by developer 5
 
-change 1 by developer 1
+change 1 by developer 6
 
 change 2 by developer 2
 
